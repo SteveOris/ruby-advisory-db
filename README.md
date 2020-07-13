@@ -131,3 +131,7 @@ developed by the Open Security Foundation (OSF) and its contributors.
 [CVSSv3]: https://www.first.org/cvss/user-guide
 [YAML]: http://www.yaml.org/
 [CONTRIBUTORS.md]: https://github.com/rubysec/ruby-advisory-db/blob/master/CONTRIBUTORS.md
+
+
+
+Froi was here!!! :taco:
